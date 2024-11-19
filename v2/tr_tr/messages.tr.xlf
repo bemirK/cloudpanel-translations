@@ -20,11 +20,11 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Kopyalamak için tıklayın</target>
+                <target>Kopyalamak için Tıklayın</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Panoya kopyalandı</target>
+                <target>Panoya Kopyalandı</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Belge</target>
+                <target>Belgeler</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -196,7 +196,7 @@
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Sunucu adı</target>
+                <target>Sunucu Adı</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
@@ -212,7 +212,7 @@
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>Kullanıcı adı</target>
+                <target>Kullanıcı Adı</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
@@ -220,7 +220,7 @@
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Oturum aç</target>
+                <target>Giriş Yap</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
@@ -228,7 +228,7 @@
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Oturumu kapat</target>
+                <target>Çıkış Yap</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
@@ -244,19 +244,19 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-posta</target>
+                <target>E-Posta</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Saat dilimi</target>
+                <target>Saat Dilimi</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Yeni parola oluştur</target>
+                <target>Yeni Parola Oluştur</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Kullanıcı oluştur</target>
+                <target>Kullanıcı Oluştur</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
@@ -356,11 +356,11 @@
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Kullanıcı ekle</target>
+                <target>Kullanıcı Ekle</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>Yeni kullanıcı</target>
+                <target>Yeni Kullanıcı Oluştur</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
@@ -380,7 +380,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Site yöneticisi</target>
+                <target>Site Yöneticisi</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -408,7 +408,7 @@
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Emin misiniz?</target>
+                <target>emin misiniz?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
@@ -608,7 +608,7 @@
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Yeniden başlat</target>
+                <target>Yeniden Başlat</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
