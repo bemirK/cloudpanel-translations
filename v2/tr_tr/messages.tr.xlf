@@ -1484,23 +1484,23 @@
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>WordPress sitesi oluştur</target>
+                <target>WordPress Sitesi Oluştur</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>PHP sitesi oluştur</target>
+                <target>PHP Sitesi Oluştur</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Node.js sitesi oluştur</target>
+                <target>Node.js Sitesi Oluştur</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Statik HTML sitesi oluştur</target>
+                <target>Statik HTML Sitesi Oluştur</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Python sitesi oluştur</target>
+                <target>Python Sitesi Oluştur</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
@@ -1508,7 +1508,7 @@
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>Yeni WordPress sitesi</target>
+                <target>Yeni WordPress Sitesi</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
@@ -1520,7 +1520,7 @@
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Site başlığı</target>
+                <target>Site Başlığı</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
@@ -1564,7 +1564,7 @@
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>Yeni PHP sitesi</target>
+                <target>Yeni PHP Sitesi</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
@@ -1576,11 +1576,11 @@
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>Yeni statik HTML sitesi</target>
+                <target>Yeni Statik HTML Sitesi</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>Yeni Node.js sitesi</target>
+                <target>Yeni Node.js Sitesi</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
@@ -1600,7 +1600,7 @@
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>Yeni Python sitesi</target>
+                <target>Yeni Python Sitesi</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
@@ -1644,55 +1644,55 @@
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>İzleme</target>
+                <target>Sistem Durumu</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Son 30 dakika</target>
+                <target>Son 30 Dakika</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Son 1 saat</target>
+                <target>Son 1 Saat</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Son 3 saat</target>
+                <target>Son 3 Saat</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Son 6 saat</target>
+                <target>Son 6 Saat</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Son 12 saat</target>
+                <target>Son 12 Saat</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 dakika</target>
+                <target>1 Dakika</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 dakika</target>
+                <target>5 Dakika</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 dakika</target>
+                <target>15 Dakika</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>İşlemci kullanımı</target>
+                <target>CPU Kullanımı</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk kullanımı</target>
+                <target>Disk Kullanımı</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Bellek kullanımı</target>
+                <target>RAM Kullanımı</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Ortalama yük</target>
+                <target>Ortalama Yük</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
@@ -1716,7 +1716,7 @@
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>İlerle</target>
+                <target>Devam</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
